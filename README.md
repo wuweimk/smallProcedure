@@ -1,2 +1,3 @@
 # smallProcedure
 这是我练习微信小程序的一个项目
+this is my edict! more and more ...
