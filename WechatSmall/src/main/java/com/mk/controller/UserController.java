@@ -24,7 +24,7 @@ public class UserController {
 	@ResponseBody 
 	public Map<String, Object> showHelloWorld(){
 			Map<String, Object> map = new HashMap<>();
-			map.put("msg", "HelloWorld"); 
+			map.put("msg", "HelloWorld"); //添加 
 			return map; 
 		}
 	
